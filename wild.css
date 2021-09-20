@@ -1,0 +1,26 @@
+.speech{
+    font : 'calibri';
+    font-size: 16px;
+    color:black;
+}
+.stage-direction{
+    font: 'Times New Roman';
+    background-color:blanchedalmond;
+    font-size: 16px;
+    color:black;
+}
+.name{
+    font:'sans-serif';
+    font-size: 16px;
+    color:black;
+}
+.stage-direction:hover{
+    background-color:cadetblue;
+    color:yellow;
+}
+.LORD-GORING{
+   color:turquoise;
+}
+.SIR-ROBERT-CHILTERN{
+    color:tomato;
+}
